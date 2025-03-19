@@ -1,0 +1,141 @@
+.containers{
+width:98%;
+height:100%;
+display: flex;
+flex-direction:row;
+margin: auto;
+gap:50px;
+padding:20px;
+padding-left:7rem;
+
+}
+.main-000{
+    width:88%;
+    height:70vh;
+    overflow: auto;
+    overflow-y: auto;
+    overflow-x: auto;
+    flex-wrap:wrap;
+}
+.main-0001{
+    width:88%;
+    height:28vh;
+    overflow: auto;
+    overflow-y: auto;
+    overflow-x: auto;
+    flex-wrap:wrap;
+    margin-top:3rem;
+    padding-left:4rem;
+    margin-bottom:3rem;
+}
+.Header-heading{
+padding-left:7rem;
+margin-top:4rem;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.news-1{
+    width:50%;
+    height:100%;
+    display: flex;
+    flex-direction:column;
+    margin: auto;
+}
+.news-1 img{
+    width:550px;
+    height:350px;
+    border-radius:40px;
+}
+.news-1 p{
+    width:90%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size:22px;
+margin-top:1rem;
+}
+.news-2{
+    width:50%;
+    height:100%;
+    display: flex;
+    flex-direction:column;
+    margin: auto;
+}
+.news-2 img{
+    width:550px;
+    height:350px;
+    border-radius:40px;
+
+}
+.news-2 p{
+    width:90%;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size:22px;
+margin-top:1rem;
+
+}
+.small-container{
+    width:88%;
+height:40vh;
+display: flex;
+flex-direction:row;
+margin: auto;
+gap:20px;
+padding:20px;
+margin-top:2rem;
+margin-bottom:2rem;
+overflow: auto;
+overflow-y: auto;
+overflow-x: auto;
+}
+.small-new-1{
+    width:33.3%;
+    height:100%;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    gap:10px;
+}
+.small-new-1 img{
+width:180px;
+height:150px;
+border-radius:40px;
+}
+.small-new-2 img{
+    width:180px;
+    height:150px;
+    border-radius:40px;
+    padding-right:10px;
+
+    }
+    .small-new-3 img{
+        width:180px;
+        height:150px;
+        border-radius:40px;
+        padding-right:10px;
+        }
+.small-new-2{
+    width:33.3%;
+    height:100%;
+    display: flex;
+    flex-direction:row;
+    margin: auto;
+}
+.small-new-3{
+    width:33.3%;
+    height:100%;
+    display: flex;
+    flex-direction:row;
+    margin: auto;
+}
+.small-new-1 p{
+    font-size:19px;
+    width:95%;
+}
+.small-new-2 p{
+    font-size:19px;
+    width:95%;
+}
+.small-new-3 p{
+    font-size:19px;
+    width:95%;
+}

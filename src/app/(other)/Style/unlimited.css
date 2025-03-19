@@ -1,0 +1,83 @@
+.GEt-aCcess-head{
+text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.GEt-aCcess-para{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    margin-bottom:1rem;
+    margin-top: 1rem;
+}
+.Access-container{
+    width:88%;
+height:90vh;
+display: flex;
+flex-direction:row;
+margin: auto;
+gap:20px;
+padding:20px;
+margin-bottom:2rem;
+}
+.Access-new-1{
+    width:33.3%;
+    height:100%;
+    display: flex;
+    flex-direction:column;
+    margin: auto;
+    text-align: center;
+    outline:1px solid black;
+    border: 1px solid black;
+}
+.Access-new-2{
+    width:33.4%;
+    height:90vh;
+    display: flex;
+    flex-direction:column;
+    margin: auto;
+    text-align: center;
+    padding:1rem;
+    outline:1px solid black;
+    border: 1px solid black;
+    margin-top:-1.3rem;
+
+}
+.Access-new-3{
+    width:33.3%;
+    height:100%;
+    display: flex;
+    flex-direction:column;
+    margin: auto;
+    text-align: center;
+    outline:1px solid black;
+    border: 1px solid black;
+
+}
+.Access-heading-02{
+    text-align: center;
+    font-size:35px;
+    color: black;
+    margin-top:1rem;
+font-weight:500;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Access-heading-03{
+    font-size:25px;
+    text-align: center;
+    color: black;
+    margin-top:1rem;
+font-weight:500;
+color:grey;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.GEt-aCcess-btn{
+    width:190px;
+    height:50px;
+    outline:1px solid black;
+    border: 1px solid black;
+    margin: auto;
+}
