@@ -6,7 +6,7 @@
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     .video-container{
-        width:88%;
+        width:95%;
     height:45vh;
     display: flex;
     flex-direction:row;
@@ -15,10 +15,10 @@
     padding:20px;
     margin-bottom:2rem;
     margin-top:1-.5rem;
-    
+    padding-left:3rem;
     }
     .main-01010{
-        width:88%;
+        width:95%;
         height:45vh;
         overflow: auto;
         overflow-y: auto;

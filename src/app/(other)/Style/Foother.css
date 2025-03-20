@@ -36,7 +36,7 @@
     color: gray;
 }.inputtt{
     width:400px;
-    height:70px;
+    height:51px;
     outline:1px solid black;
     border:1px solid black;
     margin-top: -5rem;
@@ -46,7 +46,6 @@
 .inputtt input{
     font-size:22px;
     padding-right:1rem;
-    padding-top:1rem;
 }
 .inputtt button{
     width:113px;

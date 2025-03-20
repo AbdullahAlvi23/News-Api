@@ -1,5 +1,5 @@
 .containers{
-width:98%;
+width:100%;
 height:100%;
 display: flex;
 flex-direction:row;
@@ -10,28 +10,27 @@ padding-left:7rem;
 
 }
 .main-000{
-    width:88%;
-    height:70vh;
+    width:95%;
+    height:80vh;
     overflow: auto;
     overflow-y: auto;
     overflow-x: auto;
     flex-wrap:wrap;
 }
 .main-0001{
-    width:88%;
-    height:28vh;
+    width:95%;
+    height:30vh;
     overflow: auto;
     overflow-y: auto;
     overflow-x: auto;
     flex-wrap:wrap;
     margin-top:3rem;
-    padding-left:4rem;
     margin-bottom:3rem;
 }
 .Header-heading{
 padding-left:7rem;
 margin-top:4rem;
-    font-size: 36px;
+    font-size: 40px;
     font-weight: 600;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -128,14 +127,14 @@ border-radius:40px;
     margin: auto;
 }
 .small-new-1 p{
-    font-size:19px;
+    font-size:22px;
     width:95%;
 }
 .small-new-2 p{
-    font-size:19px;
+    font-size:22px;
     width:95%;
 }
 .small-new-3 p{
-    font-size:19px;
+    font-size:22px;
     width:95%;
 }

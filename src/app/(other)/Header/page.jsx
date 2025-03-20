@@ -27,10 +27,13 @@ export default function page() {
 
     return (
         <>
-       <div className="main-000" >  {
+       <div className="main-000" >  
+        
+       <h1 className="Header-heading">Today Trending</h1>
+       {
+
           news.map((items)=>(
             <div>
-        <h1 className="Header-heading">Today Trending</h1>
  
         <div className="containers">
                 <div className="news-1">
